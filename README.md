@@ -5,15 +5,29 @@ us to for analysis. We were able to plot our analysis through Tableau to present
 detailed analysis for decision making.
 # Results
 We did our analysis based on seven different plots. The first analysis was check out time by users and then genders. This gave us detailed idea as to 
-how many users are using the bike and what hours of the day. We concluded that the busiet hours of the weekday are between 6am-9am. That being the busy
+how many users are using the bike and the duration. Below is our analysis for check out time and users:
+![check out by duration](https://user-images.githubusercontent.com/91965321/151673230-fd8b8add-6732-421d-afda-0474695fafce.PNG)
+
+Check out time and filtered by gender is as follows:
+![picture](https://user-images.githubusercontent.com/91965321/151673275-a8a0c5ca-d65b-480b-afe1-7aad684bc31a.PNG)
+
+Our next analysis was based trips by weekdays.We concluded that the busiet hours of the weekday are between 6am-9am. That being the busy
 work hours and people in the are chose to ride on bikes rather then cars. The use over the weekend is less as compared to weekdays.
+![trips by weekdays](https://user-images.githubusercontent.com/91965321/151673320-4daede5a-2567-4931-a19b-09a459132ff7.PNG)
+
 Our analysis based on gender showed that it is more common to use bikes in men than in woman. 
+![trips weekdays by gender](https://user-images.githubusercontent.com/91965321/151673328-21ec91d8-202f-48a1-b30a-8240da3040b9.PNG)
+
 We did our analysis in regards to trip duration which showed that the duration time highest and common among users was 5 minutes which again shows that 
 the bikes mostly used had short trips.
-We also did our analysis to see which bike IDS have been most used and which bikes needs repairs. According to our analysis there were quite a number of bikes
-that needed repairs and maintenance.
+We did our analysis based on usertype and then sub filtering it by gender type and found that mostly subscriber were male and customers were mostly female. 
+![user type by gender](https://user-images.githubusercontent.com/91965321/151673392-6eff4946-a8c1-4b25-a7a9-5e8132809535.PNG)
 
-![picture](https://user-images.githubusercontent.com/91965321/151429974-7f60b95b-0e73-442d-b67c-82ef8f1ce2dc.PNG)
+We also did our analysis to see which bike IDS have been most used. 
+![bike utilization](https://user-images.githubusercontent.com/91965321/151673609-183af457-1370-454a-8de2-477c6a9971e4.PNG)
+ 
+According to the number of bikes used we did analysis as to how many bikes were due for repairs abd maintenance. 
+![bike due for repairs](https://user-images.githubusercontent.com/91965321/151673640-76aa1e6c-9b2d-45db-b43a-8dd2e0b5a361.PNG)
 
 # Summary
 I think this analysis gives us a very detailed idea for the business proposal that we need to present to the investors. This business looks like a success 
@@ -25,4 +39,4 @@ There are two additonal visulizations I want to add that can give us more detail
 
 Below is the link to my story on Tableau
 
-[https://public.tableau.com/app/profile/maliha.malik/viz/Module14Challenge_16432225880550/Story2?publish=yes]
+[https://public.tableau.com/app/profile/maliha.malik/viz/Module14Challenge_16432225880550/Story3?publish=yes]
